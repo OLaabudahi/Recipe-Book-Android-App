@@ -103,16 +103,4 @@ Thank you for checking out My Recipe Book! We hope you find it useful and enjoy 
 
 
 
----
-
-<br>
-
-## 🔗 Connect with me 👩‍💻😊
-<p align="left">
-<a href="https://linkedin.com/in/shanibider" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shanibider" height="30" width="40" /></a>
-<a style="margin-left: 145x;" href="mailto:shanibider@gmail.com"><img align="center" src="https://img.icons8.com/ios-glyphs/30/000000/new-post.png" alt="shanibider@gmail.com" height="40" width="40" /></a>
-</p>
-
-<br>
-
 
