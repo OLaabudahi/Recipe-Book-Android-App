@@ -115,8 +115,4 @@ Thank you for checking out My Recipe Book! We hope you find it useful and enjoy 
 
 <br>
 
-<footer>
-<p style="float:left; width: 20%;">
-Copyright © Shani Bider
-</p>
-</footer>
+
